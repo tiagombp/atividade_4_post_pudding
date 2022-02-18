@@ -1,4 +1,11 @@
-/*@import url(https://db.onlinewebfonts.com/c/0a5fbb91dc4a457f5945dca11d44517d?family=Atlas+Grotesk+Web+Regular);*/
+@font-face {
+    font-family: "Atlas Grotesk Web Regular"; 
+    src: url("./font-atlas.woff2") format("woff2"); 
+}
+
+
+
+
 
 :root {
     --color-text-article: rgb(83, 83, 83);
